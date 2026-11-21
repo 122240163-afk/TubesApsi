@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 45" width="150" height="45">
+  <!-- Shell Pecten Scallop Emblem -->
+  <g transform="translate(6, 4)">
+    <!-- Scallop Shell Base -->
+    <path d="M 6 30 C 1 20 2 12 6 6 C 11 1 25 1 30 6 C 34 12 35 20 30 30 L 26 34 L 10 34 Z" fill="#FBCE07" stroke="#DD1D21" stroke-width="2"/>
+    <!-- Internal Red Ribs -->
+    <path d="M 18 2 L 18 34" stroke="#DD1D21" stroke-width="2"/>
+    <path d="M 12 4 L 14 34" stroke="#DD1D21" stroke-width="1.8"/>
+    <path d="M 24 4 L 22 34" stroke="#DD1D21" stroke-width="1.8"/>
+    <path d="M 7 10 L 11 34" stroke="#DD1D21" stroke-width="1.5"/>
+    <path d="M 29 10 L 25 34" stroke="#DD1D21" stroke-width="1.5"/>
+  </g>
+  <!-- Shell Wordmark -->
+  <text x="48" y="28" font-family="'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="900" fill="#DD1D21" letter-spacing="1">Shell</text>
+</svg>

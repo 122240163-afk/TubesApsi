@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 175 45" width="175" height="45">
+  <!-- Battery Emblem -->
+  <g transform="translate(6, 8)">
+    <rect x="2" y="4" width="26" height="22" rx="4" fill="#005BAC"/>
+    <rect x="7" y="1" width="4" height="3" fill="#D32F2F"/>
+    <rect x="19" y="1" width="4" height="3" fill="#333333"/>
+    <!-- Lightning bolt inside -->
+    <path d="M 16 7 L 10 16 L 15 16 L 12 23 L 20 14 L 15 14 Z" fill="#FFEB3B"/>
+  </g>
+  <!-- GS Wordmark in Blue -->
+  <text x="40" y="29" font-family="'Arial Black', sans-serif" font-size="22" font-style="italic" font-weight="900" fill="#005BAC">GS</text>
+  <!-- ASTRA Wordmark in Red -->
+  <text x="82" y="29" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="900" fill="#E31B23" letter-spacing="1.5">ASTRA</text>
+</svg>

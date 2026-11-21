@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 45" width="170" height="45">
+  <!-- Daihatsu Emblem -->
+  <g transform="translate(6, 6)">
+    <!-- Oval outline -->
+    <ellipse cx="18" cy="16" rx="17" ry="14" fill="none" stroke="#D91F26" stroke-width="2.5"/>
+    <!-- Stylized D inside -->
+    <path d="M 10 7 L 19 7 C 24 7 27 10 27 16 C 27 22 24 25 19 25 L 10 25 Z M 14 11 L 14 21 L 18 21 C 21 21 23 19 23 16 C 23 13 21 11 18 11 Z" fill="#D91F26"/>
+  </g>
+  <!-- Daihatsu Wordmark -->
+  <text x="50" y="27" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="900" fill="#D91F26" letter-spacing="1.5">DAIHATSU</text>
+</svg>

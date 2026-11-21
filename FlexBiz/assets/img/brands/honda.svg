@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155 45" width="155" height="45">
+  <!-- Honda Emblem -->
+  <g transform="translate(4, 5)">
+    <!-- Trapezoid Shield -->
+    <path d="M 4 2 L 34 2 C 37 2 39 4 38 8 L 34 31 C 33 34 30 35 28 35 L 10 35 C 8 35 5 34 4 31 L 0 8 C -1 4 1 2 4 2 Z" fill="none" stroke="#CC0000" stroke-width="2.5"/>
+    <!-- Stylized H -->
+    <path d="M 7 7 L 12 7 L 14 18 C 15 18 23 18 24 18 L 26 7 L 31 7 L 28 30 L 23 30 L 21 21 C 20 21 18 21 17 21 L 15 30 L 10 30 Z" fill="#CC0000"/>
+  </g>
+  <!-- Honda Wordmark -->
+  <text x="49" y="28" font-family="'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="900" fill="#CC0000" letter-spacing="2">HONDA</text>
+</svg>

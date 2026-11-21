@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 45" width="185" height="45">
+  <!-- Mitsubishi 3 Red Diamonds -->
+  <g fill="#E60012">
+    <!-- Top Diamond -->
+    <polygon points="22,3.5 31,19 22,24 13,19"/>
+    <!-- Bottom Left Diamond -->
+    <polygon points="22,24 13,19 4,34.5 13,34.5"/>
+    <!-- Bottom Right Diamond -->
+    <polygon points="22,24 31,19 40,34.5 31,34.5"/>
+  </g>
+  <!-- Mitsubishi Motors Wordmark -->
+  <text x="49" y="27" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="900" fill="#231F20" letter-spacing="1.5">MITSUBISHI</text>
+</svg>
